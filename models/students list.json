@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "code": "20220001",
+        "name": "Nguyễn Văn A",
+        "birthday": "2002-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 2,
+        "code": "20220002",
+        "name": "Nguyễn Văn A",
+        "birthday": "2002-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 3,
+        "code": "20220003",
+        "name": "Nguyễn Văn A",
+        "birthday": "2002-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 4,
+        "code": "20220004",
+        "name": "Nguyễn Văn A",
+        "birthday": "2002-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 5,
+        "code": "20220005",
+        "name": "Nguyễn Văn A",
+        "birthday": "2001-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 6,
+        "code": "20220006",
+        "name": "Nguyễn Văn A",
+        "birthday": "2001-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 7,
+        "code": "20220007",
+        "name": "Nguyễn Văn A",
+        "birthday": "2001-10-05",
+        "gender": "Nam"
+    },
+    {
+        "id": 8,
+        "code": "20220008",
+        "name": "Phạm Thị B",
+        "birthday": "2001-12-01",
+        "gender": "Nữ"
+    },
+    {
+        "id": 9,
+        "code": "20220009",
+        "name": "Phạm Thị B",
+        "birthday": "2001-08-11",
+        "gender": "Nữ"
+    }
+]
